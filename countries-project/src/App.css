@@ -1,0 +1,45 @@
+* {
+    font-family: 'Manrope', sans-serif;
+}
+
+.text-brand {
+    font-weight: 600;
+}
+
+.window-heigh {
+    height: 100vh;
+}
+
+.flag-shield{
+    width: 400px;
+}
+
+.sort-icon{
+    font-size: 12px;
+}
+
+.no-border {
+    border: none;
+}
+
+.infinite-carousel{
+    animation: move 300s linear infinite;
+}
+
+.reverse{
+    animation-direction: reverse;
+}
+
+.infinite-carousel img {
+    width: 200px;
+    height: 100px;
+}
+
+@keyframes move {
+    0% {
+        transform: translateY(0);
+    }
+    100%{
+        transform: translateY(-80%);
+    }
+}
