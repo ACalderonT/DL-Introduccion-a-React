@@ -16,12 +16,16 @@ Particularmente se utiliza el EndPoint de respuesta filtrada para evitar data in
 
 #### Requerimientos
 
-- [ ] Limpia los archivos e importaciones que no utilizarás de la aplicación de acuerdo a lo aprendido en el curso.
-- [ ] Dentro de App.jsx crea una landing page.
-- [ ] Crea un componente llamado MiApi.jsx e impórtalo dentro de App.jsx.
-- [ ] Dentro de MiApi.jsx crea el código para consumir la API y que muestre los resultados
-- [ ] Crea otro componente llamado buscador, que filtre por alguno de los resultados de la API. Por ejemplo, nombre, precio o cualquier otro tipo de criterio coherente con el resultado de la API.
-- [ ] Ordena los resultados por algún criterio que estimes conveniente, puede ser alfabéticamente, de menor a mayor, etc. Investiga el método sort y reverse de los arrays.
-- [ ] Agrega un diseño coherente a tu aplicación.
+- [x] Limpia los archivos e importaciones que no utilizarás de la aplicación de acuerdo a lo aprendido en el curso.
+- [x] Dentro de App.jsx crea una landing page.
+- [x] Crea un componente llamado MiApi.jsx e impórtalo dentro de App.jsx.
+- [x] Dentro de MiApi.jsx crea el código para consumir la API y que muestre los resultados
+- [x] Crea otro componente llamado buscador, que filtre por alguno de los resultados de la API. Por ejemplo, nombre, precio o cualquier otro tipo de criterio coherente con el resultado de la API.
+- [x] Ordena los resultados por algún criterio que estimes conveniente, puede ser alfabéticamente, de menor a mayor, etc. Investiga el método sort y reverse de los arrays.
+- [x] Agrega un diseño coherente a tu aplicación.
+
+
+
+:arrow_forward: https://youtu.be/2t2u40uwQ8c
 
 :shipit:
